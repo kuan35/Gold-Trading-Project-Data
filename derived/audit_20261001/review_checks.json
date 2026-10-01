@@ -1,0 +1,13 @@
+{
+  "raw_hashes_equal": true,
+  "entire_recursive_inventory_count": 221,
+  "classification_count_matches_gold": true,
+  "unique_record_ids": true,
+  "csv_rows_preserved": true,
+  "cross_source_candidates_not_deleted": true,
+  "unsupported_sources": [
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf"
+  ],
+  "timezone_unknown_for_all": true,
+  "public_output_no_source_ticket_raw_fields": true
+}

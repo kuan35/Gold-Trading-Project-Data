@@ -1,0 +1,4 @@
+﻿source_format,dimension,split_execution_candidate_groups,clustered_close_retrospective_groups,uses_future_for_grouping
+HTML,split_execution_or_close,453,230,True
+XLSX,split_execution_or_close,688,506,True
+CSV,split_execution_or_close,1221,653,True

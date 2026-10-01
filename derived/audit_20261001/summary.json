@@ -1,0 +1,135 @@
+{
+  "source_files": 221,
+  "previous_source_files": 155,
+  "source_changes": {
+    "UNCHANGED": 155,
+    "ADDED": 66
+  },
+  "extensions": {
+    ".html": 116,
+    ".csv": 66,
+    ".pdf": 1,
+    ".xlsx": 38
+  },
+  "exact_duplicate_files": 42,
+  "unique_html": 74,
+  "html_visible_rows": 6639,
+  "html_declared_rows": 19704,
+  "html_declared_gap_files": 52,
+  "html_exactly_100_rows": 52,
+  "parsed_unique_csv_files": 66,
+  "unsupported_source_files": 1,
+  "csv_record_type_counts": {
+    "WITHDRAWAL": 858,
+    "DEPOSIT": 1298,
+    "TRADE": 17184,
+    "OPEN_TRADE_SNAPSHOT": 43
+  },
+  "cross_source_candidate_format_counts": {
+    "CSV|HTML": 4895
+  },
+  "total_observation_rows": 31511,
+  "gold_rows": 25656,
+  "gold_by_format": {
+    "HTML": {
+      "observation_rows": 5114,
+      "scopes": 67,
+      "behavior_counts": {
+        "NO_OBSERVED_POSITION": 491,
+        "ADD_ADVERSE": 1487,
+        "TIME_TIE": 2328,
+        "MIXED": 47,
+        "ADD_FAVORABLE": 753,
+        "ADD_FLAT": 5,
+        "OPPOSITE": 3
+      },
+      "positive_reported_profit_rows": 3464,
+      "negative_reported_profit_rows": 1646,
+      "zero_reported_profit_rows": 4,
+      "profit_unavailable_rows": 0
+    },
+    "XLSX": {
+      "observation_rows": 5387,
+      "scopes": 38,
+      "behavior_counts": {
+        "ADD_ADVERSE": 2841,
+        "NO_OBSERVED_POSITION": 924,
+        "ADD_FAVORABLE": 1135,
+        "ADD_FLAT": 35,
+        "TIME_TIE": 444,
+        "OPPOSITE": 7,
+        "MIXED": 1
+      },
+      "positive_reported_profit_rows": 4001,
+      "negative_reported_profit_rows": 1381,
+      "zero_reported_profit_rows": 5,
+      "profit_unavailable_rows": 0
+    },
+    "CSV": {
+      "observation_rows": 15155,
+      "scopes": 61,
+      "behavior_counts": {
+        "TIME_TIE": 5731,
+        "ADD_FAVORABLE": 2346,
+        "ADD_ADVERSE": 5444,
+        "NO_OBSERVED_POSITION": 1498,
+        "MIXED": 109,
+        "OPPOSITE": 20,
+        "ADD_FLAT": 7
+      },
+      "positive_reported_profit_rows": 10792,
+      "negative_reported_profit_rows": 4336,
+      "zero_reported_profit_rows": 27,
+      "profit_unavailable_rows": 0
+    }
+  },
+  "non_gold_trade_rows": 2759,
+  "record_type_counts": {
+    "WITHDRAWAL": 1209,
+    "DEPOSIT": 1844,
+    "TRADE": 28415,
+    "OPEN_TRADE_SNAPSHOT": 43
+  },
+  "behavior_counts": {
+    "NO_OBSERVED_POSITION": 2913,
+    "ADD_ADVERSE": 9772,
+    "TIME_TIE": 8503,
+    "MIXED": 157,
+    "ADD_FAVORABLE": 4234,
+    "ADD_FLAT": 47,
+    "OPPOSITE": 30
+  },
+  "open_trade_snapshot_rows": 43,
+  "pdf_legible_unclassified_rows": 30,
+  "pdf_reviews": [
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf",
+      "sha256": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+      "pages": 2,
+      "legible_trade_evidence_rows": 30,
+      "classification": "MYFXBOOK_TRADE_DETAIL_WITH_UNREADABLE_DIRECTION",
+      "trade_statistics_included": false,
+      "direction_not_inferred_from_pips_or_profit": true,
+      "source_currency_label": "USD",
+      "review_status": "TEXT_EXTRACTED_DIRECTION_UNREADABLE",
+      "render_review": "See tmp/pdfs/refresh_pdf/page-1.png; direction appears ??"
+    }
+  ],
+  "earliest_gold_open": "2018-10-09 22:54:00",
+  "latest_gold_open": "2026-03-20 21:53:16",
+  "parse_issues": 0,
+  "cross_source_signature_candidates": 4895,
+  "cross_source_candidate_observation_rows": 9831,
+  "same_scope_signature_excess_rows": 123,
+  "observed_overlap_groups": 3996,
+  "splitExecutionCandidates": 2362,
+  "clustered_close_retrospective_candidates": 1389,
+  "classification_method": "DETERMINISTIC_VISIBLE_POSITION_RELATION_NOT_ML",
+  "combined_counts_are_source_observations_not_unique_trades": true,
+  "account_history_complete": false,
+  "timezone_status": "UNKNOWN",
+  "market_alignment_status": "UNVERIFIED",
+  "all_source_sha256_unchanged": true,
+  "csv_unambiguous_mmdd_timestamps": 21453,
+  "csv_conflicting_ddmm_timestamps": 0
+}

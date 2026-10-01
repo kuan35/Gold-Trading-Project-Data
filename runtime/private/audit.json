@@ -1,0 +1,63 @@
+{
+  "source_files": 221,
+  "total_gold_records": 25656,
+  "period": "2018-10-09 至 2026-03-20",
+  "refreshed_at": "2026-10-01",
+  "source": "private_audit",
+  "groups": [
+    {
+      "code": "NO_OBSERVED_POSITION",
+      "label": "可見初始單",
+      "count": 2913,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "ADD_ADVERSE",
+      "label": "價格不利時加單",
+      "count": 9772,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "ADD_FAVORABLE",
+      "label": "價格有利時加單",
+      "count": 4234,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "ADD_FLAT",
+      "label": "同價加單",
+      "count": 47,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "TIME_TIE",
+      "label": "順序不明",
+      "count": 8503,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "OPPOSITE",
+      "label": "反向持倉",
+      "count": 30,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "MIXED",
+      "label": "混合持倉",
+      "count": 157,
+      "description": "描述可見操作條件，不是已確認策略"
+    },
+    {
+      "code": "INVALID",
+      "label": "無法判讀",
+      "count": 0,
+      "description": "描述可見操作條件，不是已確認策略"
+    }
+  ],
+  "limitations": [
+    "來源觀察列不是去重後獨立交易數；跨格式可能重複",
+    "CSV時間只到分鐘；未平倉快照不算已實現績效",
+    "帳戶／時區與資料完整性未全核實，首筆僅指無可見既有持倉",
+    "此頁含全部可見列；案例檢索另排除順序不明和重複候選"
+  ]
+}

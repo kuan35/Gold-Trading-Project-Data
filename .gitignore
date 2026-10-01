@@ -1,0 +1,8 @@
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+__pycache__/
+*.pyc
+*.log

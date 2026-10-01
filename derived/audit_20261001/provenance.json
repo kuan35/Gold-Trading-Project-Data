@@ -1,0 +1,1800 @@
+{
+  "source_root": "C:\\Users\\USER\\Desktop\\專題\\新版本專題交易員模擬\\交易員資料",
+  "baseline_inventory": "C:\\Users\\USER\\.codex\\worktrees\\fca5\\新版本專題交易員模擬\\artifacts\\behavior_audit_20260928\\source_inventory.csv",
+  "baseline_sha256": "64921ff207976298c06b71a8c0e4bf46dc012e71ab3bfedfc92be9617a87e032",
+  "parser_script_sha256": "4cd28ab7495c8975a2f2aa3b5fc790d53869cbe7a60985c4e3d0a5f88c5d3850",
+  "legacy_parser_script_sha256": "517bb2fc603df48ff278ffc9263df5d8569e295da76c874d56b0361fb5e2eb66",
+  "raw_sha256_before": {
+    "2025/2021-2024/2021/statement (1).html": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+    "2025/2021-2024/2021/statement (2).html": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+    "2025/2021-2024/2021/statement (3).html": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+    "2025/2021-2024/2021/statement (4).html": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+    "2025/2021-2024/2021/statement (5).html": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+    "2025/2021-2024/2021/statement (6).html": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+    "2025/2021-2024/2021/statement (7).html": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+    "2025/2021-2024/2021/statement (8).html": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+    "2025/2021-2024/2021/statement.html": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+    "2025/2021-2024/2022/statement (1).html": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+    "2025/2021-2024/2022/statement (2).html": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+    "2025/2021-2024/2022/statement (3).html": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+    "2025/2021-2024/2022/statement (4).html": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+    "2025/2021-2024/2022/statement (5).html": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+    "2025/2021-2024/2022/statement (6).html": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+    "2025/2021-2024/2022/statement.html": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+    "2025/2021-2024/2023/statement (1).html": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+    "2025/2021-2024/2023/statement (2).html": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+    "2025/2021-2024/2023/statement (3).html": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+    "2025/2021-2024/2023/statement (4).html": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+    "2025/2021-2024/2023/statement (5).html": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+    "2025/2021-2024/2023/statement (6).html": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+    "2025/2021-2024/2023/statement.html": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+    "2025/2021-2024/2024/statement (1).html": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+    "2025/2021-2024/2024/statement (10).html": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+    "2025/2021-2024/2024/statement (11).html": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+    "2025/2021-2024/2024/statement (12).html": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+    "2025/2021-2024/2024/statement (2).html": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+    "2025/2021-2024/2024/statement (3).html": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+    "2025/2021-2024/2024/statement (4).html": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+    "2025/2021-2024/2024/statement (5).html": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+    "2025/2021-2024/2024/statement (6).html": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+    "2025/2021-2024/2024/statement (7).html": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+    "2025/2021-2024/2024/statement (8).html": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+    "2025/2021-2024/2024/statement (9).html": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+    "2025/2021-2024/2024/statement.html": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+    "2025/statement (1).html": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+    "2025/statement (2).html": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+    "2025/statement (3).html": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+    "2025/statement (4).html": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+    "2025/statement (5).html": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+    "2025/statement.html": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+    "DREA,補交易紀錄/2019.02 Jim 一個月挑戰.csv": "077c92250eb3b788d989aef67fad7ae21d9d80185ed602dbe8de9848cda5fdd2",
+    "DREA,補交易紀錄/2020 Jim 20倍績效.csv": "d5506f692fa3c617771e58a566197597bf4e602fb077f84fd6e91064d4555b0c",
+    "DREA,補交易紀錄/2020-02 10倍 (高).csv": "9f55990688410252e52a21eca551cf96e87545a7e72e0422d6c2705108695c39",
+    "DREA,補交易紀錄/2020-02 18倍.csv": "4ce48c2f1340a133ae25b854306bcfa1ffab4c77529e2be08ef7510330f4e6bd",
+    "DREA,補交易紀錄/2020-02(10倍).csv": "ea1492f0315a4d50e1a8875e01904a2712101c172119132de630fbba1fa167a2",
+    "DREA,補交易紀錄/2020-02-4 10倍 (日).csv": "5583b9b8290c8fb6334652b742e1e9a5c64a866e1e78c4df26e419713be96c0a",
+    "DREA,補交易紀錄/2020-02-4 6K(日) 最高+184.76%.csv": "d931eabe80e0fa6759d4e5c609feec19f802e7cae74b4d8a310d72d88e85a22e",
+    "DREA,補交易紀錄/2020-09-28 初始7616 跟隨 最高+5,633%.csv": "a5de43b5aa9a50b4465dbc0aa6abd176b16231d59c251d1a98af01c60f43d0b2",
+    "DREA,補交易紀錄/2020-12-7 手動 最高+1,592%.csv": "02640721531bc0ba6f9e2ff584fcf5d823e2dc1ad5ab326b2f1b77a6747ca992",
+    "DREA,補交易紀錄/2021-01-27 挑戰 最高+389.08%.csv": "07523877f22f8d31d877624e39498eaa5c74ad02a5ce717863a83ce659918fc8",
+    "DREA,補交易紀錄/2021-05-07 (風控賺錢) Hantec 最高+518.78%.csv": "0fffb492dae3e4450d16b22ce9eed0a12860d1bf197a138e1ec8d0270dbe2ed0",
+    "DREA,補交易紀錄/2021-05-19 風控小賺 最高+10,505%.csv": "545a339fca054fef269825775bf7fe6a31fc699dd3d91d9289622eeab542d7ce",
+    "DREA,補交易紀錄/2021-06-11 3K初始 最高+773.7%.csv": "dde447ec8f6156c0a579ffac2091f60b49e9646534bb0c2da1b1b1c5a6c1bc34",
+    "DREA,補交易紀錄/2021-09-20 大資金 18萬 217%.csv": "b00e3a0cb5e7b6454cf6c090a0fe01f545c219adc520e3d74d7eb4cc876eafd2",
+    "DREA,補交易紀錄/2021-09-29 賺1萬-2 最高+955.85%.csv": "72ad3117f9b0e9963e64da9dbf215feb32ebe506cc2054b360975e7c2b684e89",
+    "DREA,補交易紀錄/2021-10-07 Hantec手動 最高+1,130%.csv": "cbd265e6b7212a6bd5474439bc82de3ee528c8b63f7ee6937ae4dcca2279ac3a",
+    "DREA,補交易紀錄/2021-11-20 1萬 最高+1,087.27%.csv": "2a6efc38f35897f655c112ced90bcf9696db00ccf76d66027bb816c935c96a52",
+    "DREA,補交易紀錄/2021-12-15 波段 最高+891.27%.csv": "919a88e8619df910cdba0ca8e776663739be8cce9115a4a19defa75389f3cdaf",
+    "DREA,補交易紀錄/2021.06.30 Jim疫情拼經濟.csv": "9d4039209fd130d975234525aaacee1d55a5ad8562f3a30f6d559c8f85c64c33",
+    "DREA,補交易紀錄/2022-10-13 帳戶風控04 最高+158.99%.csv": "286282cd718db0cc37c0829687d82de91e66e559af908816167b93148b5fe365",
+    "DREA,補交易紀錄/2022-10-31 帳戶風控03 最高+66.11%.csv": "bc5f50fc668f950962ebee6eb1603907a38d73c9a58e94ce9f24645512d84661",
+    "DREA,補交易紀錄/2022-11-28 gold 上排行前3 最高+1,134%.csv": "00df7e76b92a0de557e9af34ce48e72cbd534a9778b27069a3c5003d46b563fc",
+    "DREA,補交易紀錄/2022-11-3 帳戶風控02 最高+125.6%.csv": "ece25912ac7203fb3e7fdd043980fb706aab14fd34f52ba8a95a3b4ae33cb1d6",
+    "DREA,補交易紀錄/2022-11-9 帳戶風控01 最高+641.69%.csv": "16bce1dab5ce81b98ddd7d4f68034da458016f91cf106a252b19011ef21de7ad",
+    "DREA,補交易紀錄/2022-12 dream 最高+1,555.13 H.csv": "c94564c666e4f54d0867567eadb3c4668488aaebe492544b7b4ac4709f884177",
+    "DREA,補交易紀錄/2022-12-27 帳戶風控0769 最高+125.88%.csv": "b64e3417c67cb6564a03121180df45f99daf5bf3024a89e741957c994b78d588",
+    "DREA,補交易紀錄/20220307-d心急代價.csv": "25f73d8f234d2aba5604237031240aba3306f8a8eb5a1d5e980ee3ca2d1f716e",
+    "DREA,補交易紀錄/2023-01-03 帳戶風控1029 最高+387%.csv": "209af972b5abd605a3f0aad7096bfb404a374ecd6373572e7e9426bd69cd726f",
+    "DREA,補交易紀錄/2023-01-13 帳戶風控7667 最高+53%.csv": "cc415f4f3672ad1fedc9bc52077bebc5ee8ab8797b49284d49a5e08fc1bacfb4",
+    "DREA,補交易紀錄/2023-01-18 帳戶風控6646 最高+296%.csv": "4b21fc1d8840d38a9031fe93a8d08bc07b5047e4f070cefde106b084097ecb2d",
+    "DREA,補交易紀錄/2023-03-21 帳戶風控4110最高+153%.csv": "ebc856ad05be296466bd83d831152f6df55c8adbf3a2ca7443d95296ae9892a2",
+    "DREA,補交易紀錄/2023-04-03 帳戶風控5023 最高.csv": "c176c117f17713d2c9b3ca385aed79f1b1d825ff1d94c1d85a46fe175bda850a",
+    "DREA,補交易紀錄/2023-06-30 帳戶風控.csv": "cc4ed5685e36ac2bf8cdee23a6dfef710d79784d67cf2877771f34889f3bb3a5",
+    "DREA,補交易紀錄/2023-12-12 XM 績效.csv": "5808ece55585446fef01926327d57c13ecfbfd0bc44d8ea35e5cce357873161e",
+    "DREA,補交易紀錄/2023-24-12-28 XM比賽帳戶.csv": "d0b3387a39e7c53396ee827b438e2b2215cdee9201313b1edaf4b96160fc38e7",
+    "DREA,補交易紀錄/2024 08開始 Dream手動 Gold.csv": "5a23db03270e116b915f915e761a327d548274dd1d3e9545649c7b2540f0776a",
+    "DREA,補交易紀錄/2024-01-22 XM 績效.csv": "0b4fe4f87794fae9d51a7ed04940304be336d85cfa5d7ce706b2e76d740a2166",
+    "DREA,補交易紀錄/2024-02 打平 績效.csv": "544b4a1f33ec2f68eca2fc633adbecebd41b8bc7b297ad8c06266a9c996ad8c8",
+    "DREA,補交易紀錄/2024-02-15 XM 績效.csv": "a64fcdad6e817b6da2a46000bbe69d96d1ae290f450c71b376a95b7fa15e61ef",
+    "DREA,補交易紀錄/2024-05-24.csv": "d9e62450bfe9f121fedc06acc30a0a42742268bc85955294a824c9a7322fdab1",
+    "DREA,補交易紀錄/2024-06-20.csv": "a342a26ea7b5416c222b8d56af4d6ea441b187da57538661a2578df2fff948e4",
+    "DREA,補交易紀錄/2024-09-10 Xm —挑戰1日50倍.csv": "3676de7a13d2d00ef844a65ee30b8d122fc49ea038a8d2238d539d3822b4f521",
+    "DREA,補交易紀錄/2024-10 XM 特別.csv": "9b60bab3fba9d61b86ee8defb46b7fcedcc26cfb695319095af5c3a17d5e5778",
+    "DREA,補交易紀錄/2024-10-17 高績效 316倍 8交易日.csv": "478b6dc2cf8f7de507e17b1878454765df4bcdd995edd39b1d42a1e4dc1c5275",
+    "DREA,補交易紀錄/2024-10~12 XM.csv": "774e63a6d51e8cda1558fa8ad6cd1e6b544d339fb519b36eefa30a68c289a8c5",
+    "DREA,補交易紀錄/2024-11~12 XM.csv": "b4e39b197ce34b0d0aebd3e385215883d121677de7f06cb05833b304fbdc203d",
+    "DREA,補交易紀錄/2024-12 Hantec 手動.csv": "17581f75db40cda8f6802c00984f9c65e6cb77e7dfcf27cc858f3741f409a31e",
+    "DREA,補交易紀錄/2024-12 ~績效.csv": "10428ac49b92fca3cb2ea2a574b0824c66b639ae13e366f3b80b9a307a1339cd",
+    "DREA,補交易紀錄/2025 手動.csv": "009ad4821586bb76344a9b772beb45a4a2731d86297585dc2a0cd4a0e1026a04",
+    "DREA,補交易紀錄/2025-01~02.csv": "9231c78796cbc083f791515f912726836c01c89bb5fc415d7147aa617d27396d",
+    "DREA,補交易紀錄/2025-02~.csv": "e6c365effa7dfbef132fe7d6198e83efbdddd01bf5bd56a9e2913dfb3c408cf5",
+    "DREA,補交易紀錄/2026 英諾.csv": "ce9876402d04ffe148c47a9545cd2342cae550965fd655009c6eebcfa1ae9e18",
+    "DREA,補交易紀錄/dream 10月份高風險.csv": "6ed8081c97f091cb0dd0be660f9806c653a5d51a03640333717b14576915c463",
+    "DREA,補交易紀錄/dream 小資金示範.csv": "67e4fd8f752ed4ec7cc436da2f1f82cd1db7ae5fb7ca07781ec8a5d09b5dd2e3",
+    "DREA,補交易紀錄/dream 手動 10倍.csv": "9c229fbffd6441a3de62e4321bb64aab91e9e2af98d65aabcb755a6ccc2fc0cf",
+    "DREA,補交易紀錄/dream-復活.csv": "1fad0fe4d3eca9f6439deb8ff03274144680ffa053857aefc703bc9fc1620b3e",
+    "DREA,補交易紀錄/dream-手動-01.csv": "1999ecfd6ea6d6061205eb0b4753ffeea66465a4ce62691e38ebf513e1fee630",
+    "DREA,補交易紀錄/dream-手動-02.csv": "99a7f724cc91482903b7b288e3f7fa8c2546f5627354f200ee733875fa180fa7",
+    "DREA,補交易紀錄/dream-手動-04.csv": "1ce3c37d65989ed9fd48e4c6d6e491091d2f64952e077ae3faba9650c2e254a3",
+    "DREA,補交易紀錄/Dream-每日100USD.csv": "9b42ea7283a03e8d1e674e77cba7f9e04ecf31361e31faaf3b9f7e17d49176b3",
+    "DREA,補交易紀錄/INFINOX 8月 較積極.csv": "3765e4182015d2db7799c0f78577df88cf396d45b7193af0668b1b5b3589fc15",
+    "DREA,補交易紀錄/INFINOX 8月.csv": "2e4ef4b5dbc994b87a11879f0b66e1f71fb11b99d661728c1f40d3de68a9dcf3",
+    "DREA,補交易紀錄/ing~2023-01-25 帳戶風控1745 最高+323%.csv": "aca83f5049185cb2c36eb013b3d30a8ceda015988e40b8ce8f73888bfa8cee14",
+    "DREA,補交易紀錄/jim手動.csv": "f16218857c5b7da0ffc1c41556c9a43ae9283ed93329d1a6e18ae8069e30a649",
+    "DREA,補交易紀錄/手動-04.csv": "40a265248279c382096e653283eeaf18f38b93ce7e25b2f4fdec783a1a98f9f5",
+    "DREA,補交易紀錄/英諾 202505.csv": "d414bccab93dae64129ca0c13e1efa6251a042a56706ff1d5b2b676174740513",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (1).html": "d0fb8c757ff7939e9c28811b34c208f42fd91c2aa57c895542eabe2f6fff6f35",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (10).html": "bb686576943ffbd6862b2e7e17930c444e536ef2a0569c7d7a5cab18d711fe63",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (11).html": "baeb8ee7cbb521dc2bf82209abd0c7139f2a9c5c9bc6f838e84a9f24c44c1b05",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (12).html": "e109a511194aedef72511755694869f8c5ed3d60e728f007876ee0affd81b73f",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (13).html": "134e2f90442c0a0e47cd1ba4295c6a2c7578aef3928a445d28a8e5f836ba0124",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (2).html": "73953b09908a559166c201df5bf584beddbe217a2a594aa712b7cd2c38057808",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (3).html": "ebc45f10a5fb43d14454b2985f4d06b0dbab8279c610b46d8ca05bb839940113",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (4).html": "a32e21d09bcb0ae1e8d747a67b20f207ade1d1be5d299c5ace0034bd31c0ea76",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (5).html": "1c462771bfe3016cab11a0d9bf2cea15bec4c11249f4bf7d5b2851dc1d878cb4",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (6).html": "4dda3b170903e54ecd631249c6c1e9b57db113cf4d51b86c51b2f57c14f6a691",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (7).html": "b89214192dde4ce4746f213d3aaebd771465269ed508879d759d1872e8c7b89f",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (8).html": "ed4d4f9aac1f9203e7ca00898afb1a9662a14609b9a4674cedf7e1977bf82e15",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (9).html": "f195815328c345b143ef568da4313acaf5e5f13cbc4a3dcb0873723c492365a7",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement.html": "e63f4d1c3d4b68a67c753b935770508da5ec3ca69cb878506cec6441d86ab76d",
+    "手動交易2024後策略較固定/2021/statement (1).html": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+    "手動交易2024後策略較固定/2021/statement (2).html": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+    "手動交易2024後策略較固定/2021/statement (3).html": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+    "手動交易2024後策略較固定/2021/statement (4).html": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+    "手動交易2024後策略較固定/2021/statement (5).html": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+    "手動交易2024後策略較固定/2021/statement (6).html": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+    "手動交易2024後策略較固定/2021/statement (7).html": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+    "手動交易2024後策略較固定/2021/statement (8).html": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+    "手動交易2024後策略較固定/2021/statement.html": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+    "手動交易2024後策略較固定/2022/statement (1).html": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+    "手動交易2024後策略較固定/2022/statement (2).html": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+    "手動交易2024後策略較固定/2022/statement (3).html": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+    "手動交易2024後策略較固定/2022/statement (4).html": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+    "手動交易2024後策略較固定/2022/statement (5).html": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+    "手動交易2024後策略較固定/2022/statement (6).html": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+    "手動交易2024後策略較固定/2022/statement.html": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+    "手動交易2024後策略較固定/2023/statement (1).html": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+    "手動交易2024後策略較固定/2023/statement (2).html": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+    "手動交易2024後策略較固定/2023/statement (3).html": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+    "手動交易2024後策略較固定/2023/statement (4).html": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+    "手動交易2024後策略較固定/2023/statement (5).html": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+    "手動交易2024後策略較固定/2023/statement (6).html": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+    "手動交易2024後策略較固定/2023/statement.html": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+    "手動交易2024後策略較固定/2024/statement (1).html": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+    "手動交易2024後策略較固定/2024/statement (10).html": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+    "手動交易2024後策略較固定/2024/statement (11).html": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+    "手動交易2024後策略較固定/2024/statement (12).html": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+    "手動交易2024後策略較固定/2024/statement (2).html": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+    "手動交易2024後策略較固定/2024/statement (3).html": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+    "手動交易2024後策略較固定/2024/statement (4).html": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+    "手動交易2024後策略較固定/2024/statement (5).html": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+    "手動交易2024後策略較固定/2024/statement (6).html": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+    "手動交易2024後策略較固定/2024/statement (7).html": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+    "手動交易2024後策略較固定/2024/statement (8).html": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+    "手動交易2024後策略較固定/2024/statement (9).html": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+    "手動交易2024後策略較固定/2024/statement.html": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+    "手動交易2024後策略較固定/2025/statement (1).html": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+    "手動交易2024後策略較固定/2025/statement (2).html": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+    "手動交易2024後策略較固定/2025/statement (3).html": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+    "手動交易2024後策略較固定/2025/statement (4).html": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+    "手動交易2024後策略較固定/2025/statement (5).html": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+    "手動交易2024後策略較固定/2025/statement.html": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+    "手動交易2024後策略較固定/2026/statement (1).html": "5edf4babb39b787d27cf8b4665d4f0937ca1fb4237fcec41167195459550a1bb",
+    "手動交易2024後策略較固定/2026/statement (2).html": "515cb75e36cca184fd4fd284799dc6e174437541a56f5fa5055bd60dbb611ca3",
+    "手動交易2024後策略較固定/2026/statement.html": "c0888baf8559c928a0eca852d8775c03ca182db0b7e55518ed67c96196a3a0eb",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (1).xlsx": "ebb28a7cd056a540d428c2c99d391c4f7899d74a24ee553a1118b8ce5ef04f7f",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (2).xlsx": "cafdab7036d4dd6518181c2aba6ca04c45e682b9c622b117402e9b47fabb311d",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (3).xlsx": "77d3e1c02f6ba16f912871a64b6d0d36a8fa8aadd31a96ae75840839278098d6",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (4).xlsx": "fe31d141ee36d9021b3f3d8f72dd5f5bc88f1e59cf1c0364432aaef793078363",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (5).xlsx": "8256c3ecbcf7ce807ce469f2cd5e62a1b998ec92607906e903e131b155dc4fcd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (6).xlsx": "062175e23a63e78973bf9fc69a529eb99c93280134abdb33982507024e27a557",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (7).xlsx": "64674f5347c5b73481481736dcf15942121c14b881e4b75276cf3487016864f8",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal.xlsx": "42610ce8528d5c95d53a60395e0c3fe8a6834eae8e308b00de4bdf7ecc8a156c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (1).xlsx": "0975c2f6c7dec0c78e1210fed80a487e37ff110b6227469f40dff7629cb90b68",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (2).xlsx": "0b8a144a480c241cbaa218f48e51a7c520c880378ddad4e1333c758ceac813b2",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (3).xlsx": "c5c33f09bf360c983c3488eb1ccd5f91d5f870a1677fe705320c6732d39f995a",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (4).xlsx": "3af44cede4ef8754eee148b7fe0b733b64f16b2472b28565fa6312406ae5fd4d",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (5).xlsx": "fb0582ed64dd14546a3e946f8fd1777cc13b47c8c393ff957b63bcf133a2582b",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (6).xlsx": "539a8c62f35a7bb1739762987d6759c381e913edadb173f0e24d6d4edd435ecc",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal.xlsx": "d943afc73f1a92e5b4d064e9684710398ab9179949c43a2c44efc990c166167b",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (1).xlsx": "e6cc621d97600f661e435ea1322217e1453c92ba344fc0467a21ae7e26d4799c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (10).xlsx": "802a65ce836ef2a987ade0ea8ad27da36a2d8e92443bf1559465478509fabd06",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (11).xlsx": "99197a68b6abd5ee14133e0ce1f62aa5a8af4bdfd4aa7eeab354b72639b2dc55",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (12).xlsx": "a222540b527fe7b4de1746bc1f019b08892485663b271b844cfe207a4273c2a0",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (13).xlsx": "ced8d56d15e79629ea5d650311644367ba752f38c60ed497a502a6ee636fc046",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (14).xlsx": "8c42103eb013db9a8c4e79d708fc5ccf05a926a55fc147b42ca6afdf2eeb9bf9",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (2).xlsx": "e17528255cc8b2437efbdb6b5e60df8029cfaa53f0c95bda11655147cef1ebcd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (3).xlsx": "3cd2c30846d39859c9b3646a4e515bde1b023196675de8fd1e693bfe45d73838",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (4).xlsx": "a1b1e7753309a44e26df5f29f78a37f93966d7e210cc26410c01e18992827c3a",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (5).xlsx": "59cda3f6825f2cc21db9c81bc313e1a31bc6cf325f99564e78929b8865292819",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (6).xlsx": "083e344728e6cc8084b82b5aabf054b9cebd3ec657f64fcf1c39609af1df533c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (7).xlsx": "e6975ad4e4c0131fa8565b7eaf0df37d938d32b8e7527bb884c856dcb4cc4063",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (8).xlsx": "9e38b287422f3fbe273d73f4090675d71e576e46353ce2e454330149021d031c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (9).xlsx": "c91183318fdce165ecde60750dc1d3d2b4f1cf21b5c5f5f7e39a20b7044a5574",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal.xlsx": "dc601dd4a011df224a618c80370dca83f6734b64afc5a94a8ccb19f6ab38aada",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (1).xlsx": "ff70abcda07b7ef576c05208564c2ff2848ab2f5d6b674d7f89c685783a1b225",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (2).xlsx": "c1218a87de9188f2935ffe62df8d04fbe58a4af5c98332043ffb5f4b96f22fbd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (3).xlsx": "6e5aacd1847475067167c3e83c9548199c32350c554f10714af15e9a67ba5146",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (4).xlsx": "8436a99c0691c51738c5a382dd69ec179ce741021cc42acd3d54cabddfabf013",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (5).xlsx": "9431fb28739ed7dc60a8f4c0f1928a286f171bacd33f87599a49d00a5b45aa97",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (6).xlsx": "11b6244031c88eebba05f0cc5f643a8f6fa9dc0f784fe6db7f87b13043f90733",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (7).xlsx": "e83aef98ebab0eab5e2f11388857f743caa542c29e5234fc0ca08494695a3bde",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal.xlsx": "c11949c135a2717c04b963dc3b4de29cede533bbde5215f2f3f9a2e505fea031",
+    "手動交易2024後策略較固定/其他/statement (1).html": "64f5c51f8d253d762c44e705b750fe3440151f71bb6b5479a01c289b57362203",
+    "手動交易2024後策略較固定/其他/statement (2).html": "dc676e1cb75edc49cebb423205427ac5efbe567207cab40da7a59a6ea8d91e41",
+    "手動交易2024後策略較固定/其他/statement (3).html": "4250bf31b24679af4085e2875e2f89acd8a5ce2f2b0726f4d0e466d9dd729cb5",
+    "手動交易2024後策略較固定/其他/statement (4).html": "7689d9320fd164a2932783102e8895e9f8a6103d423a504f5e37b0602db4c078",
+    "手動交易2024後策略較固定/其他/statement (5).html": "f5798f1bbe8c00e3494652024588d4b0a89e93cbc06e6a62b4cbe358110a3eb7",
+    "手動交易2024後策略較固定/其他/statement.html": "b840d14af9d8eb75d4c7e6224d2aaa2f0e4cbad6f9ce0d727e2c494d916a3eaa",
+    "手動交易2024後策略較固定/模擬倉/statement (1).html": "5c8e66d827d4b35350161e1d6b9501cb473c05254d125041f12b1f46e1fcf3e1",
+    "手動交易2024後策略較固定/模擬倉/statement (2).html": "b11157907efa6dd405fea0f83dc6a6bd68af8d66b4520e47da56da275648c07a",
+    "手動交易2024後策略較固定/模擬倉/statement (3).html": "688fa2897373826d2dd676ed0fd25025b95c45e114ad5008a059713fe438c8ef",
+    "手動交易2024後策略較固定/模擬倉/statement (4).html": "bc6f8668242f91fcb1fcc2ff07d7b2226c7ba41d485640f2fdfa86fc3723343a",
+    "手動交易2024後策略較固定/模擬倉/statement (5).html": "16715c4f6a958a2411e5c63a4d36176674f01424a6d492560f97a77808baa615",
+    "手動交易2024後策略較固定/模擬倉/statement (6).html": "c4a9740b0e26c6f6859bd711cc7baaa65e08cc0b567b45d0993f95552df6e834",
+    "手動交易2024後策略較固定/模擬倉/statement (7).html": "08f475ca074fdd852b134b3e96f47e7f8ad6604cb23a94803cc9e02af44b92c6",
+    "手動交易2024後策略較固定/模擬倉/statement (8).html": "0df4c5f570b1ded723aae10d0d928ed65baeaa9e34369e4be01473d435e83436",
+    "手動交易2024後策略較固定/模擬倉/statement.html": "5aab3a9d9e550753e7e794297a1aede33d7a5c05604121e20b9c513755cc64ee"
+  },
+  "raw_sha256_after": {
+    "2025/2021-2024/2021/statement (1).html": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+    "2025/2021-2024/2021/statement (2).html": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+    "2025/2021-2024/2021/statement (3).html": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+    "2025/2021-2024/2021/statement (4).html": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+    "2025/2021-2024/2021/statement (5).html": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+    "2025/2021-2024/2021/statement (6).html": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+    "2025/2021-2024/2021/statement (7).html": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+    "2025/2021-2024/2021/statement (8).html": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+    "2025/2021-2024/2021/statement.html": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+    "2025/2021-2024/2022/statement (1).html": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+    "2025/2021-2024/2022/statement (2).html": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+    "2025/2021-2024/2022/statement (3).html": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+    "2025/2021-2024/2022/statement (4).html": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+    "2025/2021-2024/2022/statement (5).html": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+    "2025/2021-2024/2022/statement (6).html": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+    "2025/2021-2024/2022/statement.html": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+    "2025/2021-2024/2023/statement (1).html": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+    "2025/2021-2024/2023/statement (2).html": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+    "2025/2021-2024/2023/statement (3).html": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+    "2025/2021-2024/2023/statement (4).html": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+    "2025/2021-2024/2023/statement (5).html": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+    "2025/2021-2024/2023/statement (6).html": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+    "2025/2021-2024/2023/statement.html": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+    "2025/2021-2024/2024/statement (1).html": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+    "2025/2021-2024/2024/statement (10).html": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+    "2025/2021-2024/2024/statement (11).html": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+    "2025/2021-2024/2024/statement (12).html": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+    "2025/2021-2024/2024/statement (2).html": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+    "2025/2021-2024/2024/statement (3).html": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+    "2025/2021-2024/2024/statement (4).html": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+    "2025/2021-2024/2024/statement (5).html": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+    "2025/2021-2024/2024/statement (6).html": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+    "2025/2021-2024/2024/statement (7).html": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+    "2025/2021-2024/2024/statement (8).html": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+    "2025/2021-2024/2024/statement (9).html": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+    "2025/2021-2024/2024/statement.html": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+    "2025/statement (1).html": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+    "2025/statement (2).html": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+    "2025/statement (3).html": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+    "2025/statement (4).html": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+    "2025/statement (5).html": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+    "2025/statement.html": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+    "DREA,補交易紀錄/2019.02 Jim 一個月挑戰.csv": "077c92250eb3b788d989aef67fad7ae21d9d80185ed602dbe8de9848cda5fdd2",
+    "DREA,補交易紀錄/2020 Jim 20倍績效.csv": "d5506f692fa3c617771e58a566197597bf4e602fb077f84fd6e91064d4555b0c",
+    "DREA,補交易紀錄/2020-02 10倍 (高).csv": "9f55990688410252e52a21eca551cf96e87545a7e72e0422d6c2705108695c39",
+    "DREA,補交易紀錄/2020-02 18倍.csv": "4ce48c2f1340a133ae25b854306bcfa1ffab4c77529e2be08ef7510330f4e6bd",
+    "DREA,補交易紀錄/2020-02(10倍).csv": "ea1492f0315a4d50e1a8875e01904a2712101c172119132de630fbba1fa167a2",
+    "DREA,補交易紀錄/2020-02-4 10倍 (日).csv": "5583b9b8290c8fb6334652b742e1e9a5c64a866e1e78c4df26e419713be96c0a",
+    "DREA,補交易紀錄/2020-02-4 6K(日) 最高+184.76%.csv": "d931eabe80e0fa6759d4e5c609feec19f802e7cae74b4d8a310d72d88e85a22e",
+    "DREA,補交易紀錄/2020-09-28 初始7616 跟隨 最高+5,633%.csv": "a5de43b5aa9a50b4465dbc0aa6abd176b16231d59c251d1a98af01c60f43d0b2",
+    "DREA,補交易紀錄/2020-12-7 手動 最高+1,592%.csv": "02640721531bc0ba6f9e2ff584fcf5d823e2dc1ad5ab326b2f1b77a6747ca992",
+    "DREA,補交易紀錄/2021-01-27 挑戰 最高+389.08%.csv": "07523877f22f8d31d877624e39498eaa5c74ad02a5ce717863a83ce659918fc8",
+    "DREA,補交易紀錄/2021-05-07 (風控賺錢) Hantec 最高+518.78%.csv": "0fffb492dae3e4450d16b22ce9eed0a12860d1bf197a138e1ec8d0270dbe2ed0",
+    "DREA,補交易紀錄/2021-05-19 風控小賺 最高+10,505%.csv": "545a339fca054fef269825775bf7fe6a31fc699dd3d91d9289622eeab542d7ce",
+    "DREA,補交易紀錄/2021-06-11 3K初始 最高+773.7%.csv": "dde447ec8f6156c0a579ffac2091f60b49e9646534bb0c2da1b1b1c5a6c1bc34",
+    "DREA,補交易紀錄/2021-09-20 大資金 18萬 217%.csv": "b00e3a0cb5e7b6454cf6c090a0fe01f545c219adc520e3d74d7eb4cc876eafd2",
+    "DREA,補交易紀錄/2021-09-29 賺1萬-2 最高+955.85%.csv": "72ad3117f9b0e9963e64da9dbf215feb32ebe506cc2054b360975e7c2b684e89",
+    "DREA,補交易紀錄/2021-10-07 Hantec手動 最高+1,130%.csv": "cbd265e6b7212a6bd5474439bc82de3ee528c8b63f7ee6937ae4dcca2279ac3a",
+    "DREA,補交易紀錄/2021-11-20 1萬 最高+1,087.27%.csv": "2a6efc38f35897f655c112ced90bcf9696db00ccf76d66027bb816c935c96a52",
+    "DREA,補交易紀錄/2021-12-15 波段 最高+891.27%.csv": "919a88e8619df910cdba0ca8e776663739be8cce9115a4a19defa75389f3cdaf",
+    "DREA,補交易紀錄/2021.06.30 Jim疫情拼經濟.csv": "9d4039209fd130d975234525aaacee1d55a5ad8562f3a30f6d559c8f85c64c33",
+    "DREA,補交易紀錄/2022-10-13 帳戶風控04 最高+158.99%.csv": "286282cd718db0cc37c0829687d82de91e66e559af908816167b93148b5fe365",
+    "DREA,補交易紀錄/2022-10-31 帳戶風控03 最高+66.11%.csv": "bc5f50fc668f950962ebee6eb1603907a38d73c9a58e94ce9f24645512d84661",
+    "DREA,補交易紀錄/2022-11-28 gold 上排行前3 最高+1,134%.csv": "00df7e76b92a0de557e9af34ce48e72cbd534a9778b27069a3c5003d46b563fc",
+    "DREA,補交易紀錄/2022-11-3 帳戶風控02 最高+125.6%.csv": "ece25912ac7203fb3e7fdd043980fb706aab14fd34f52ba8a95a3b4ae33cb1d6",
+    "DREA,補交易紀錄/2022-11-9 帳戶風控01 最高+641.69%.csv": "16bce1dab5ce81b98ddd7d4f68034da458016f91cf106a252b19011ef21de7ad",
+    "DREA,補交易紀錄/2022-12 dream 最高+1,555.13 H.csv": "c94564c666e4f54d0867567eadb3c4668488aaebe492544b7b4ac4709f884177",
+    "DREA,補交易紀錄/2022-12-27 帳戶風控0769 最高+125.88%.csv": "b64e3417c67cb6564a03121180df45f99daf5bf3024a89e741957c994b78d588",
+    "DREA,補交易紀錄/20220307-d心急代價.csv": "25f73d8f234d2aba5604237031240aba3306f8a8eb5a1d5e980ee3ca2d1f716e",
+    "DREA,補交易紀錄/2023-01-03 帳戶風控1029 最高+387%.csv": "209af972b5abd605a3f0aad7096bfb404a374ecd6373572e7e9426bd69cd726f",
+    "DREA,補交易紀錄/2023-01-13 帳戶風控7667 最高+53%.csv": "cc415f4f3672ad1fedc9bc52077bebc5ee8ab8797b49284d49a5e08fc1bacfb4",
+    "DREA,補交易紀錄/2023-01-18 帳戶風控6646 最高+296%.csv": "4b21fc1d8840d38a9031fe93a8d08bc07b5047e4f070cefde106b084097ecb2d",
+    "DREA,補交易紀錄/2023-03-21 帳戶風控4110最高+153%.csv": "ebc856ad05be296466bd83d831152f6df55c8adbf3a2ca7443d95296ae9892a2",
+    "DREA,補交易紀錄/2023-04-03 帳戶風控5023 最高.csv": "c176c117f17713d2c9b3ca385aed79f1b1d825ff1d94c1d85a46fe175bda850a",
+    "DREA,補交易紀錄/2023-06-30 帳戶風控.csv": "cc4ed5685e36ac2bf8cdee23a6dfef710d79784d67cf2877771f34889f3bb3a5",
+    "DREA,補交易紀錄/2023-12-12 XM 績效.csv": "5808ece55585446fef01926327d57c13ecfbfd0bc44d8ea35e5cce357873161e",
+    "DREA,補交易紀錄/2023-24-12-28 XM比賽帳戶.csv": "d0b3387a39e7c53396ee827b438e2b2215cdee9201313b1edaf4b96160fc38e7",
+    "DREA,補交易紀錄/2024 08開始 Dream手動 Gold.csv": "5a23db03270e116b915f915e761a327d548274dd1d3e9545649c7b2540f0776a",
+    "DREA,補交易紀錄/2024-01-22 XM 績效.csv": "0b4fe4f87794fae9d51a7ed04940304be336d85cfa5d7ce706b2e76d740a2166",
+    "DREA,補交易紀錄/2024-02 打平 績效.csv": "544b4a1f33ec2f68eca2fc633adbecebd41b8bc7b297ad8c06266a9c996ad8c8",
+    "DREA,補交易紀錄/2024-02-15 XM 績效.csv": "a64fcdad6e817b6da2a46000bbe69d96d1ae290f450c71b376a95b7fa15e61ef",
+    "DREA,補交易紀錄/2024-05-24.csv": "d9e62450bfe9f121fedc06acc30a0a42742268bc85955294a824c9a7322fdab1",
+    "DREA,補交易紀錄/2024-06-20.csv": "a342a26ea7b5416c222b8d56af4d6ea441b187da57538661a2578df2fff948e4",
+    "DREA,補交易紀錄/2024-09-10 Xm —挑戰1日50倍.csv": "3676de7a13d2d00ef844a65ee30b8d122fc49ea038a8d2238d539d3822b4f521",
+    "DREA,補交易紀錄/2024-10 XM 特別.csv": "9b60bab3fba9d61b86ee8defb46b7fcedcc26cfb695319095af5c3a17d5e5778",
+    "DREA,補交易紀錄/2024-10-17 高績效 316倍 8交易日.csv": "478b6dc2cf8f7de507e17b1878454765df4bcdd995edd39b1d42a1e4dc1c5275",
+    "DREA,補交易紀錄/2024-10~12 XM.csv": "774e63a6d51e8cda1558fa8ad6cd1e6b544d339fb519b36eefa30a68c289a8c5",
+    "DREA,補交易紀錄/2024-11~12 XM.csv": "b4e39b197ce34b0d0aebd3e385215883d121677de7f06cb05833b304fbdc203d",
+    "DREA,補交易紀錄/2024-12 Hantec 手動.csv": "17581f75db40cda8f6802c00984f9c65e6cb77e7dfcf27cc858f3741f409a31e",
+    "DREA,補交易紀錄/2024-12 ~績效.csv": "10428ac49b92fca3cb2ea2a574b0824c66b639ae13e366f3b80b9a307a1339cd",
+    "DREA,補交易紀錄/2025 手動.csv": "009ad4821586bb76344a9b772beb45a4a2731d86297585dc2a0cd4a0e1026a04",
+    "DREA,補交易紀錄/2025-01~02.csv": "9231c78796cbc083f791515f912726836c01c89bb5fc415d7147aa617d27396d",
+    "DREA,補交易紀錄/2025-02~.csv": "e6c365effa7dfbef132fe7d6198e83efbdddd01bf5bd56a9e2913dfb3c408cf5",
+    "DREA,補交易紀錄/2026 英諾.csv": "ce9876402d04ffe148c47a9545cd2342cae550965fd655009c6eebcfa1ae9e18",
+    "DREA,補交易紀錄/dream 10月份高風險.csv": "6ed8081c97f091cb0dd0be660f9806c653a5d51a03640333717b14576915c463",
+    "DREA,補交易紀錄/dream 小資金示範.csv": "67e4fd8f752ed4ec7cc436da2f1f82cd1db7ae5fb7ca07781ec8a5d09b5dd2e3",
+    "DREA,補交易紀錄/dream 手動 10倍.csv": "9c229fbffd6441a3de62e4321bb64aab91e9e2af98d65aabcb755a6ccc2fc0cf",
+    "DREA,補交易紀錄/dream-復活.csv": "1fad0fe4d3eca9f6439deb8ff03274144680ffa053857aefc703bc9fc1620b3e",
+    "DREA,補交易紀錄/dream-手動-01.csv": "1999ecfd6ea6d6061205eb0b4753ffeea66465a4ce62691e38ebf513e1fee630",
+    "DREA,補交易紀錄/dream-手動-02.csv": "99a7f724cc91482903b7b288e3f7fa8c2546f5627354f200ee733875fa180fa7",
+    "DREA,補交易紀錄/dream-手動-04.csv": "1ce3c37d65989ed9fd48e4c6d6e491091d2f64952e077ae3faba9650c2e254a3",
+    "DREA,補交易紀錄/Dream-每日100USD.csv": "9b42ea7283a03e8d1e674e77cba7f9e04ecf31361e31faaf3b9f7e17d49176b3",
+    "DREA,補交易紀錄/INFINOX 8月 較積極.csv": "3765e4182015d2db7799c0f78577df88cf396d45b7193af0668b1b5b3589fc15",
+    "DREA,補交易紀錄/INFINOX 8月.csv": "2e4ef4b5dbc994b87a11879f0b66e1f71fb11b99d661728c1f40d3de68a9dcf3",
+    "DREA,補交易紀錄/ing~2023-01-25 帳戶風控1745 最高+323%.csv": "aca83f5049185cb2c36eb013b3d30a8ceda015988e40b8ce8f73888bfa8cee14",
+    "DREA,補交易紀錄/jim手動.csv": "f16218857c5b7da0ffc1c41556c9a43ae9283ed93329d1a6e18ae8069e30a649",
+    "DREA,補交易紀錄/手動-04.csv": "40a265248279c382096e653283eeaf18f38b93ce7e25b2f4fdec783a1a98f9f5",
+    "DREA,補交易紀錄/英諾 202505.csv": "d414bccab93dae64129ca0c13e1efa6251a042a56706ff1d5b2b676174740513",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (1).html": "d0fb8c757ff7939e9c28811b34c208f42fd91c2aa57c895542eabe2f6fff6f35",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (10).html": "bb686576943ffbd6862b2e7e17930c444e536ef2a0569c7d7a5cab18d711fe63",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (11).html": "baeb8ee7cbb521dc2bf82209abd0c7139f2a9c5c9bc6f838e84a9f24c44c1b05",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (12).html": "e109a511194aedef72511755694869f8c5ed3d60e728f007876ee0affd81b73f",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (13).html": "134e2f90442c0a0e47cd1ba4295c6a2c7578aef3928a445d28a8e5f836ba0124",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (2).html": "73953b09908a559166c201df5bf584beddbe217a2a594aa712b7cd2c38057808",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (3).html": "ebc45f10a5fb43d14454b2985f4d06b0dbab8279c610b46d8ca05bb839940113",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (4).html": "a32e21d09bcb0ae1e8d747a67b20f207ade1d1be5d299c5ace0034bd31c0ea76",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (5).html": "1c462771bfe3016cab11a0d9bf2cea15bec4c11249f4bf7d5b2851dc1d878cb4",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (6).html": "4dda3b170903e54ecd631249c6c1e9b57db113cf4d51b86c51b2f57c14f6a691",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (7).html": "b89214192dde4ce4746f213d3aaebd771465269ed508879d759d1872e8c7b89f",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (8).html": "ed4d4f9aac1f9203e7ca00898afb1a9662a14609b9a4674cedf7e1977bf82e15",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement (9).html": "f195815328c345b143ef568da4313acaf5e5f13cbc4a3dcb0873723c492365a7",
+    "手動交易2024後策略較固定/2020含更久以前交易/statement.html": "e63f4d1c3d4b68a67c753b935770508da5ec3ca69cb878506cec6441d86ab76d",
+    "手動交易2024後策略較固定/2021/statement (1).html": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+    "手動交易2024後策略較固定/2021/statement (2).html": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+    "手動交易2024後策略較固定/2021/statement (3).html": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+    "手動交易2024後策略較固定/2021/statement (4).html": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+    "手動交易2024後策略較固定/2021/statement (5).html": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+    "手動交易2024後策略較固定/2021/statement (6).html": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+    "手動交易2024後策略較固定/2021/statement (7).html": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+    "手動交易2024後策略較固定/2021/statement (8).html": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+    "手動交易2024後策略較固定/2021/statement.html": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+    "手動交易2024後策略較固定/2022/statement (1).html": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+    "手動交易2024後策略較固定/2022/statement (2).html": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+    "手動交易2024後策略較固定/2022/statement (3).html": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+    "手動交易2024後策略較固定/2022/statement (4).html": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+    "手動交易2024後策略較固定/2022/statement (5).html": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+    "手動交易2024後策略較固定/2022/statement (6).html": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+    "手動交易2024後策略較固定/2022/statement.html": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+    "手動交易2024後策略較固定/2023/statement (1).html": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+    "手動交易2024後策略較固定/2023/statement (2).html": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+    "手動交易2024後策略較固定/2023/statement (3).html": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+    "手動交易2024後策略較固定/2023/statement (4).html": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+    "手動交易2024後策略較固定/2023/statement (5).html": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+    "手動交易2024後策略較固定/2023/statement (6).html": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+    "手動交易2024後策略較固定/2023/statement.html": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+    "手動交易2024後策略較固定/2024/statement (1).html": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+    "手動交易2024後策略較固定/2024/statement (10).html": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+    "手動交易2024後策略較固定/2024/statement (11).html": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+    "手動交易2024後策略較固定/2024/statement (12).html": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+    "手動交易2024後策略較固定/2024/statement (2).html": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+    "手動交易2024後策略較固定/2024/statement (3).html": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+    "手動交易2024後策略較固定/2024/statement (4).html": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+    "手動交易2024後策略較固定/2024/statement (5).html": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+    "手動交易2024後策略較固定/2024/statement (6).html": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+    "手動交易2024後策略較固定/2024/statement (7).html": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+    "手動交易2024後策略較固定/2024/statement (8).html": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+    "手動交易2024後策略較固定/2024/statement (9).html": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+    "手動交易2024後策略較固定/2024/statement.html": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+    "手動交易2024後策略較固定/2025/statement (1).html": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+    "手動交易2024後策略較固定/2025/statement (2).html": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+    "手動交易2024後策略較固定/2025/statement (3).html": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+    "手動交易2024後策略較固定/2025/statement (4).html": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+    "手動交易2024後策略較固定/2025/statement (5).html": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+    "手動交易2024後策略較固定/2025/statement.html": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+    "手動交易2024後策略較固定/2026/statement (1).html": "5edf4babb39b787d27cf8b4665d4f0937ca1fb4237fcec41167195459550a1bb",
+    "手動交易2024後策略較固定/2026/statement (2).html": "515cb75e36cca184fd4fd284799dc6e174437541a56f5fa5055bd60dbb611ca3",
+    "手動交易2024後策略較固定/2026/statement.html": "c0888baf8559c928a0eca852d8775c03ca182db0b7e55518ed67c96196a3a0eb",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (1).xlsx": "ebb28a7cd056a540d428c2c99d391c4f7899d74a24ee553a1118b8ce5ef04f7f",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (2).xlsx": "cafdab7036d4dd6518181c2aba6ca04c45e682b9c622b117402e9b47fabb311d",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (3).xlsx": "77d3e1c02f6ba16f912871a64b6d0d36a8fa8aadd31a96ae75840839278098d6",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (4).xlsx": "fe31d141ee36d9021b3f3d8f72dd5f5bc88f1e59cf1c0364432aaef793078363",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (5).xlsx": "8256c3ecbcf7ce807ce469f2cd5e62a1b998ec92607906e903e131b155dc4fcd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (6).xlsx": "062175e23a63e78973bf9fc69a529eb99c93280134abdb33982507024e27a557",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (7).xlsx": "64674f5347c5b73481481736dcf15942121c14b881e4b75276cf3487016864f8",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal.xlsx": "42610ce8528d5c95d53a60395e0c3fe8a6834eae8e308b00de4bdf7ecc8a156c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (1).xlsx": "0975c2f6c7dec0c78e1210fed80a487e37ff110b6227469f40dff7629cb90b68",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (2).xlsx": "0b8a144a480c241cbaa218f48e51a7c520c880378ddad4e1333c758ceac813b2",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (3).xlsx": "c5c33f09bf360c983c3488eb1ccd5f91d5f870a1677fe705320c6732d39f995a",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (4).xlsx": "3af44cede4ef8754eee148b7fe0b733b64f16b2472b28565fa6312406ae5fd4d",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (5).xlsx": "fb0582ed64dd14546a3e946f8fd1777cc13b47c8c393ff957b63bcf133a2582b",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (6).xlsx": "539a8c62f35a7bb1739762987d6759c381e913edadb173f0e24d6d4edd435ecc",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal.xlsx": "d943afc73f1a92e5b4d064e9684710398ab9179949c43a2c44efc990c166167b",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (1).xlsx": "e6cc621d97600f661e435ea1322217e1453c92ba344fc0467a21ae7e26d4799c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (10).xlsx": "802a65ce836ef2a987ade0ea8ad27da36a2d8e92443bf1559465478509fabd06",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (11).xlsx": "99197a68b6abd5ee14133e0ce1f62aa5a8af4bdfd4aa7eeab354b72639b2dc55",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (12).xlsx": "a222540b527fe7b4de1746bc1f019b08892485663b271b844cfe207a4273c2a0",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (13).xlsx": "ced8d56d15e79629ea5d650311644367ba752f38c60ed497a502a6ee636fc046",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (14).xlsx": "8c42103eb013db9a8c4e79d708fc5ccf05a926a55fc147b42ca6afdf2eeb9bf9",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (2).xlsx": "e17528255cc8b2437efbdb6b5e60df8029cfaa53f0c95bda11655147cef1ebcd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (3).xlsx": "3cd2c30846d39859c9b3646a4e515bde1b023196675de8fd1e693bfe45d73838",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (4).xlsx": "a1b1e7753309a44e26df5f29f78a37f93966d7e210cc26410c01e18992827c3a",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (5).xlsx": "59cda3f6825f2cc21db9c81bc313e1a31bc6cf325f99564e78929b8865292819",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (6).xlsx": "083e344728e6cc8084b82b5aabf054b9cebd3ec657f64fcf1c39609af1df533c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (7).xlsx": "e6975ad4e4c0131fa8565b7eaf0df37d938d32b8e7527bb884c856dcb4cc4063",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (8).xlsx": "9e38b287422f3fbe273d73f4090675d71e576e46353ce2e454330149021d031c",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (9).xlsx": "c91183318fdce165ecde60750dc1d3d2b4f1cf21b5c5f5f7e39a20b7044a5574",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal.xlsx": "dc601dd4a011df224a618c80370dca83f6734b64afc5a94a8ccb19f6ab38aada",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (1).xlsx": "ff70abcda07b7ef576c05208564c2ff2848ab2f5d6b674d7f89c685783a1b225",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (2).xlsx": "c1218a87de9188f2935ffe62df8d04fbe58a4af5c98332043ffb5f4b96f22fbd",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (3).xlsx": "6e5aacd1847475067167c3e83c9548199c32350c554f10714af15e9a67ba5146",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (4).xlsx": "8436a99c0691c51738c5a382dd69ec179ce741021cc42acd3d54cabddfabf013",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (5).xlsx": "9431fb28739ed7dc60a8f4c0f1928a286f171bacd33f87599a49d00a5b45aa97",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (6).xlsx": "11b6244031c88eebba05f0cc5f643a8f6fa9dc0f784fe6db7f87b13043f90733",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (7).xlsx": "e83aef98ebab0eab5e2f11388857f743caa542c29e5234fc0ca08494695a3bde",
+    "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal.xlsx": "c11949c135a2717c04b963dc3b4de29cede533bbde5215f2f3f9a2e505fea031",
+    "手動交易2024後策略較固定/其他/statement (1).html": "64f5c51f8d253d762c44e705b750fe3440151f71bb6b5479a01c289b57362203",
+    "手動交易2024後策略較固定/其他/statement (2).html": "dc676e1cb75edc49cebb423205427ac5efbe567207cab40da7a59a6ea8d91e41",
+    "手動交易2024後策略較固定/其他/statement (3).html": "4250bf31b24679af4085e2875e2f89acd8a5ce2f2b0726f4d0e466d9dd729cb5",
+    "手動交易2024後策略較固定/其他/statement (4).html": "7689d9320fd164a2932783102e8895e9f8a6103d423a504f5e37b0602db4c078",
+    "手動交易2024後策略較固定/其他/statement (5).html": "f5798f1bbe8c00e3494652024588d4b0a89e93cbc06e6a62b4cbe358110a3eb7",
+    "手動交易2024後策略較固定/其他/statement.html": "b840d14af9d8eb75d4c7e6224d2aaa2f0e4cbad6f9ce0d727e2c494d916a3eaa",
+    "手動交易2024後策略較固定/模擬倉/statement (1).html": "5c8e66d827d4b35350161e1d6b9501cb473c05254d125041f12b1f46e1fcf3e1",
+    "手動交易2024後策略較固定/模擬倉/statement (2).html": "b11157907efa6dd405fea0f83dc6a6bd68af8d66b4520e47da56da275648c07a",
+    "手動交易2024後策略較固定/模擬倉/statement (3).html": "688fa2897373826d2dd676ed0fd25025b95c45e114ad5008a059713fe438c8ef",
+    "手動交易2024後策略較固定/模擬倉/statement (4).html": "bc6f8668242f91fcb1fcc2ff07d7b2226c7ba41d485640f2fdfa86fc3723343a",
+    "手動交易2024後策略較固定/模擬倉/statement (5).html": "16715c4f6a958a2411e5c63a4d36176674f01424a6d492560f97a77808baa615",
+    "手動交易2024後策略較固定/模擬倉/statement (6).html": "c4a9740b0e26c6f6859bd711cc7baaa65e08cc0b567b45d0993f95552df6e834",
+    "手動交易2024後策略較固定/模擬倉/statement (7).html": "08f475ca074fdd852b134b3e96f47e7f8ad6604cb23a94803cc9e02af44b92c6",
+    "手動交易2024後策略較固定/模擬倉/statement (8).html": "0df4c5f570b1ded723aae10d0d928ed65baeaa9e34369e4be01473d435e83436",
+    "手動交易2024後策略較固定/模擬倉/statement.html": "5aab3a9d9e550753e7e794297a1aede33d7a5c05604121e20b9c513755cc64ee"
+  },
+  "all_source_sha256_unchanged": true,
+  "csv_date_format_evidence": "Unambiguous day > 12 records support MM/DD; conflicting month > 12 records counted",
+  "csv_duration_not_used_to_invent_seconds": true,
+  "duplicate_policy": "ONLY_BYTE_IDENTICAL_FILES_EXCLUDED; OTHER_SIGNATURES_FLAGGED_NOT_REMOVED",
+  "historical_group_ids_not_stable_between_refreshes": true,
+  "source_changes": [
+    {
+      "source": "2025/2021-2024/2021/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+      "current_sha256": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+      "current_sha256": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+      "current_sha256": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+      "current_sha256": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+      "current_sha256": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+      "current_sha256": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+      "current_sha256": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+      "current_sha256": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38"
+    },
+    {
+      "source": "2025/2021-2024/2021/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+      "current_sha256": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+      "current_sha256": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+      "current_sha256": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+      "current_sha256": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+      "current_sha256": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+      "current_sha256": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+      "current_sha256": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4"
+    },
+    {
+      "source": "2025/2021-2024/2022/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+      "current_sha256": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+      "current_sha256": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+      "current_sha256": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+      "current_sha256": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+      "current_sha256": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+      "current_sha256": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+      "current_sha256": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175"
+    },
+    {
+      "source": "2025/2021-2024/2023/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+      "current_sha256": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+      "current_sha256": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (10).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+      "current_sha256": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (11).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+      "current_sha256": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (12).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+      "current_sha256": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+      "current_sha256": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+      "current_sha256": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+      "current_sha256": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+      "current_sha256": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+      "current_sha256": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+      "current_sha256": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+      "current_sha256": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement (9).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+      "current_sha256": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd"
+    },
+    {
+      "source": "2025/2021-2024/2024/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+      "current_sha256": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4"
+    },
+    {
+      "source": "2025/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+      "current_sha256": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5"
+    },
+    {
+      "source": "2025/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+      "current_sha256": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749"
+    },
+    {
+      "source": "2025/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+      "current_sha256": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471"
+    },
+    {
+      "source": "2025/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+      "current_sha256": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080"
+    },
+    {
+      "source": "2025/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+      "current_sha256": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69"
+    },
+    {
+      "source": "2025/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+      "current_sha256": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7"
+    },
+    {
+      "source": "DREA,補交易紀錄/2019.02 Jim 一個月挑戰.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "077c92250eb3b788d989aef67fad7ae21d9d80185ed602dbe8de9848cda5fdd2"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020 Jim 20倍績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "d5506f692fa3c617771e58a566197597bf4e602fb077f84fd6e91064d4555b0c"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-02 10倍 (高).csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9f55990688410252e52a21eca551cf96e87545a7e72e0422d6c2705108695c39"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-02 18倍.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "4ce48c2f1340a133ae25b854306bcfa1ffab4c77529e2be08ef7510330f4e6bd"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-02(10倍).csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "ea1492f0315a4d50e1a8875e01904a2712101c172119132de630fbba1fa167a2"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-02-4 10倍 (日).csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "5583b9b8290c8fb6334652b742e1e9a5c64a866e1e78c4df26e419713be96c0a"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-02-4 6K(日) 最高+184.76%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "d931eabe80e0fa6759d4e5c609feec19f802e7cae74b4d8a310d72d88e85a22e"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-09-28 初始7616 跟隨 最高+5,633%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "a5de43b5aa9a50b4465dbc0aa6abd176b16231d59c251d1a98af01c60f43d0b2"
+    },
+    {
+      "source": "DREA,補交易紀錄/2020-12-7 手動 最高+1,592%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "02640721531bc0ba6f9e2ff584fcf5d823e2dc1ad5ab326b2f1b77a6747ca992"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-01-27 挑戰 最高+389.08%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "07523877f22f8d31d877624e39498eaa5c74ad02a5ce717863a83ce659918fc8"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-05-07 (風控賺錢) Hantec 最高+518.78%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "0fffb492dae3e4450d16b22ce9eed0a12860d1bf197a138e1ec8d0270dbe2ed0"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-05-19 風控小賺 最高+10,505%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "545a339fca054fef269825775bf7fe6a31fc699dd3d91d9289622eeab542d7ce"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-06-11 3K初始 最高+773.7%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "dde447ec8f6156c0a579ffac2091f60b49e9646534bb0c2da1b1b1c5a6c1bc34"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-09-20 大資金 18萬 217%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "b00e3a0cb5e7b6454cf6c090a0fe01f545c219adc520e3d74d7eb4cc876eafd2"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-09-29 賺1萬-2 最高+955.85%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "72ad3117f9b0e9963e64da9dbf215feb32ebe506cc2054b360975e7c2b684e89"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-10-07 Hantec手動 最高+1,130%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "cbd265e6b7212a6bd5474439bc82de3ee528c8b63f7ee6937ae4dcca2279ac3a"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-11-20 1萬 最高+1,087.27%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "2a6efc38f35897f655c112ced90bcf9696db00ccf76d66027bb816c935c96a52"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021-12-15 波段 最高+891.27%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "919a88e8619df910cdba0ca8e776663739be8cce9115a4a19defa75389f3cdaf"
+    },
+    {
+      "source": "DREA,補交易紀錄/2021.06.30 Jim疫情拼經濟.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9d4039209fd130d975234525aaacee1d55a5ad8562f3a30f6d559c8f85c64c33"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-10-13 帳戶風控04 最高+158.99%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "286282cd718db0cc37c0829687d82de91e66e559af908816167b93148b5fe365"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-10-31 帳戶風控03 最高+66.11%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "bc5f50fc668f950962ebee6eb1603907a38d73c9a58e94ce9f24645512d84661"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-11-28 gold 上排行前3 最高+1,134%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "00df7e76b92a0de557e9af34ce48e72cbd534a9778b27069a3c5003d46b563fc"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-11-3 帳戶風控02 最高+125.6%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "ece25912ac7203fb3e7fdd043980fb706aab14fd34f52ba8a95a3b4ae33cb1d6"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-11-9 帳戶風控01 最高+641.69%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "16bce1dab5ce81b98ddd7d4f68034da458016f91cf106a252b19011ef21de7ad"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-12 dream 最高+1,555.13 H.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "c94564c666e4f54d0867567eadb3c4668488aaebe492544b7b4ac4709f884177"
+    },
+    {
+      "source": "DREA,補交易紀錄/2022-12-27 帳戶風控0769 最高+125.88%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "b64e3417c67cb6564a03121180df45f99daf5bf3024a89e741957c994b78d588"
+    },
+    {
+      "source": "DREA,補交易紀錄/20220307-d心急代價.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "25f73d8f234d2aba5604237031240aba3306f8a8eb5a1d5e980ee3ca2d1f716e"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-01-03 帳戶風控1029 最高+387%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "209af972b5abd605a3f0aad7096bfb404a374ecd6373572e7e9426bd69cd726f"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-01-13 帳戶風控7667 最高+53%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "cc415f4f3672ad1fedc9bc52077bebc5ee8ab8797b49284d49a5e08fc1bacfb4"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-01-18 帳戶風控6646 最高+296%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "4b21fc1d8840d38a9031fe93a8d08bc07b5047e4f070cefde106b084097ecb2d"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-03-21 帳戶風控4110最高+153%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "ebc856ad05be296466bd83d831152f6df55c8adbf3a2ca7443d95296ae9892a2"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-04-03 帳戶風控5023 最高.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "c176c117f17713d2c9b3ca385aed79f1b1d825ff1d94c1d85a46fe175bda850a"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-06-30 帳戶風控.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "cc4ed5685e36ac2bf8cdee23a6dfef710d79784d67cf2877771f34889f3bb3a5"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-12-12 XM 績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "5808ece55585446fef01926327d57c13ecfbfd0bc44d8ea35e5cce357873161e"
+    },
+    {
+      "source": "DREA,補交易紀錄/2023-24-12-28 XM比賽帳戶.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "d0b3387a39e7c53396ee827b438e2b2215cdee9201313b1edaf4b96160fc38e7"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024 08開始 Dream手動 Gold.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "5a23db03270e116b915f915e761a327d548274dd1d3e9545649c7b2540f0776a"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-01-22 XM 績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "0b4fe4f87794fae9d51a7ed04940304be336d85cfa5d7ce706b2e76d740a2166"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-02 打平 績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "544b4a1f33ec2f68eca2fc633adbecebd41b8bc7b297ad8c06266a9c996ad8c8"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-02-15 XM 績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "a64fcdad6e817b6da2a46000bbe69d96d1ae290f450c71b376a95b7fa15e61ef"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-05-24.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "d9e62450bfe9f121fedc06acc30a0a42742268bc85955294a824c9a7322fdab1"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-06-20.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "a342a26ea7b5416c222b8d56af4d6ea441b187da57538661a2578df2fff948e4"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-09-10 Xm —挑戰1日50倍.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "3676de7a13d2d00ef844a65ee30b8d122fc49ea038a8d2238d539d3822b4f521"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-10 XM 特別.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9b60bab3fba9d61b86ee8defb46b7fcedcc26cfb695319095af5c3a17d5e5778"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-10-17 高績效 316倍 8交易日.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "478b6dc2cf8f7de507e17b1878454765df4bcdd995edd39b1d42a1e4dc1c5275"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-10~12 XM.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "774e63a6d51e8cda1558fa8ad6cd1e6b544d339fb519b36eefa30a68c289a8c5"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-11~12 XM.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "b4e39b197ce34b0d0aebd3e385215883d121677de7f06cb05833b304fbdc203d"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-12 Hantec 手動.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "17581f75db40cda8f6802c00984f9c65e6cb77e7dfcf27cc858f3741f409a31e"
+    },
+    {
+      "source": "DREA,補交易紀錄/2024-12 ~績效.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "10428ac49b92fca3cb2ea2a574b0824c66b639ae13e366f3b80b9a307a1339cd"
+    },
+    {
+      "source": "DREA,補交易紀錄/2025 手動.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "009ad4821586bb76344a9b772beb45a4a2731d86297585dc2a0cd4a0e1026a04"
+    },
+    {
+      "source": "DREA,補交易紀錄/2025-01~02.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9231c78796cbc083f791515f912726836c01c89bb5fc415d7147aa617d27396d"
+    },
+    {
+      "source": "DREA,補交易紀錄/2025-02~.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "e6c365effa7dfbef132fe7d6198e83efbdddd01bf5bd56a9e2913dfb3c408cf5"
+    },
+    {
+      "source": "DREA,補交易紀錄/2026 英諾.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "ce9876402d04ffe148c47a9545cd2342cae550965fd655009c6eebcfa1ae9e18"
+    },
+    {
+      "source": "DREA,補交易紀錄/Dream-每日100USD.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9b42ea7283a03e8d1e674e77cba7f9e04ecf31361e31faaf3b9f7e17d49176b3"
+    },
+    {
+      "source": "DREA,補交易紀錄/INFINOX 8月 較積極.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "3765e4182015d2db7799c0f78577df88cf396d45b7193af0668b1b5b3589fc15"
+    },
+    {
+      "source": "DREA,補交易紀錄/INFINOX 8月.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "2e4ef4b5dbc994b87a11879f0b66e1f71fb11b99d661728c1f40d3de68a9dcf3"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream 10月份高風險.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "6ed8081c97f091cb0dd0be660f9806c653a5d51a03640333717b14576915c463"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream 小資金示範.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "67e4fd8f752ed4ec7cc436da2f1f82cd1db7ae5fb7ca07781ec8a5d09b5dd2e3"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream 手動 10倍.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "9c229fbffd6441a3de62e4321bb64aab91e9e2af98d65aabcb755a6ccc2fc0cf"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream-復活.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "1fad0fe4d3eca9f6439deb8ff03274144680ffa053857aefc703bc9fc1620b3e"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream-手動-01.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "1999ecfd6ea6d6061205eb0b4753ffeea66465a4ce62691e38ebf513e1fee630"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream-手動-02.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "99a7f724cc91482903b7b288e3f7fa8c2546f5627354f200ee733875fa180fa7"
+    },
+    {
+      "source": "DREA,補交易紀錄/dream-手動-04.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "1ce3c37d65989ed9fd48e4c6d6e491091d2f64952e077ae3faba9650c2e254a3"
+    },
+    {
+      "source": "DREA,補交易紀錄/ing~2023-01-25 帳戶風控1745 最高+323%.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "aca83f5049185cb2c36eb013b3d30a8ceda015988e40b8ce8f73888bfa8cee14"
+    },
+    {
+      "source": "DREA,補交易紀錄/jim手動.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "f16218857c5b7da0ffc1c41556c9a43ae9283ed93329d1a6e18ae8069e30a649"
+    },
+    {
+      "source": "DREA,補交易紀錄/手動-04.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "40a265248279c382096e653283eeaf18f38b93ce7e25b2f4fdec783a1a98f9f5"
+    },
+    {
+      "source": "DREA,補交易紀錄/英諾 202505.csv",
+      "change": "ADDED",
+      "previous_sha256": "",
+      "current_sha256": "d414bccab93dae64129ca0c13e1efa6251a042a56706ff1d5b2b676174740513"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "d0fb8c757ff7939e9c28811b34c208f42fd91c2aa57c895542eabe2f6fff6f35",
+      "current_sha256": "d0fb8c757ff7939e9c28811b34c208f42fd91c2aa57c895542eabe2f6fff6f35"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (10).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "bb686576943ffbd6862b2e7e17930c444e536ef2a0569c7d7a5cab18d711fe63",
+      "current_sha256": "bb686576943ffbd6862b2e7e17930c444e536ef2a0569c7d7a5cab18d711fe63"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (11).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "baeb8ee7cbb521dc2bf82209abd0c7139f2a9c5c9bc6f838e84a9f24c44c1b05",
+      "current_sha256": "baeb8ee7cbb521dc2bf82209abd0c7139f2a9c5c9bc6f838e84a9f24c44c1b05"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (12).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e109a511194aedef72511755694869f8c5ed3d60e728f007876ee0affd81b73f",
+      "current_sha256": "e109a511194aedef72511755694869f8c5ed3d60e728f007876ee0affd81b73f"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (13).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "134e2f90442c0a0e47cd1ba4295c6a2c7578aef3928a445d28a8e5f836ba0124",
+      "current_sha256": "134e2f90442c0a0e47cd1ba4295c6a2c7578aef3928a445d28a8e5f836ba0124"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "73953b09908a559166c201df5bf584beddbe217a2a594aa712b7cd2c38057808",
+      "current_sha256": "73953b09908a559166c201df5bf584beddbe217a2a594aa712b7cd2c38057808"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "ebc45f10a5fb43d14454b2985f4d06b0dbab8279c610b46d8ca05bb839940113",
+      "current_sha256": "ebc45f10a5fb43d14454b2985f4d06b0dbab8279c610b46d8ca05bb839940113"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "a32e21d09bcb0ae1e8d747a67b20f207ade1d1be5d299c5ace0034bd31c0ea76",
+      "current_sha256": "a32e21d09bcb0ae1e8d747a67b20f207ade1d1be5d299c5ace0034bd31c0ea76"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "1c462771bfe3016cab11a0d9bf2cea15bec4c11249f4bf7d5b2851dc1d878cb4",
+      "current_sha256": "1c462771bfe3016cab11a0d9bf2cea15bec4c11249f4bf7d5b2851dc1d878cb4"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4dda3b170903e54ecd631249c6c1e9b57db113cf4d51b86c51b2f57c14f6a691",
+      "current_sha256": "4dda3b170903e54ecd631249c6c1e9b57db113cf4d51b86c51b2f57c14f6a691"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b89214192dde4ce4746f213d3aaebd771465269ed508879d759d1872e8c7b89f",
+      "current_sha256": "b89214192dde4ce4746f213d3aaebd771465269ed508879d759d1872e8c7b89f"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "ed4d4f9aac1f9203e7ca00898afb1a9662a14609b9a4674cedf7e1977bf82e15",
+      "current_sha256": "ed4d4f9aac1f9203e7ca00898afb1a9662a14609b9a4674cedf7e1977bf82e15"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement (9).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "f195815328c345b143ef568da4313acaf5e5f13cbc4a3dcb0873723c492365a7",
+      "current_sha256": "f195815328c345b143ef568da4313acaf5e5f13cbc4a3dcb0873723c492365a7"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2020含更久以前交易/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e63f4d1c3d4b68a67c753b935770508da5ec3ca69cb878506cec6441d86ab76d",
+      "current_sha256": "e63f4d1c3d4b68a67c753b935770508da5ec3ca69cb878506cec6441d86ab76d"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211",
+      "current_sha256": "f7789f9b32b39910a2e9dece7834677f881579b14ca2bddb6064db5539613211"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394",
+      "current_sha256": "46c6f793fd1b4d6c41325416660d912093f63f9f89184f5ff7c83d6feed36394"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412",
+      "current_sha256": "bcf02d26327ec509dfb0aff166592646ea9535947a397366fec39cf1de295412"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619",
+      "current_sha256": "7703d72f2b8d753d079b9b0ae2cdddf65cb8dffb78ff655f66d8edb3d7640619"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5",
+      "current_sha256": "37412bbacd85301618a9e6cf083b2e4a527d9a69c1376ede473d65c44e1bd6d5"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea",
+      "current_sha256": "212fd92ecc4ec5a9d434bd16973be19a3d31e6b180864b6fb65f475b3bc7a3ea"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f",
+      "current_sha256": "0033eb325bebc82fd11d8607fafde3ee557abe384cba07e9f778006421b8579f"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38",
+      "current_sha256": "7087523e6fabcf5cf113404c78178d9916ff1ce45f309d0d46403b7fad8e1e38"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2021/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978",
+      "current_sha256": "de6bf8f91f0687f07d05fcb9a5dba2c87ec0ade894a9ab736a6cf72e6b939978"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905",
+      "current_sha256": "9e4fb67ed07492afbaeec225818e04386e711c639daa63e758596422fc58f905"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31",
+      "current_sha256": "938ddd7cd893de398afb419f0fc9572ce667d7c3e88be5f9ed100089c4577f31"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde",
+      "current_sha256": "7f7331808ed47cf1dbb4a66f62c381783a1344f305d63681feaa7c3a210fddde"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263",
+      "current_sha256": "0365a228917f81db56a00907a511ba33ab43a80916ba9d87c4d24c782be54263"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157",
+      "current_sha256": "9f935f4d97a85b16c6657fd65f449dd9c5815129f404a7a0e290e43e8d143157"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4",
+      "current_sha256": "5433e495060fd993432f6338449e165d40ab608726863aed12b9bfd0862beac4"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2022/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de",
+      "current_sha256": "e8b64afb877e24a79f9ada3daf4d15236f871c67e0098f2eea82c15ab24984de"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e",
+      "current_sha256": "73ab4cebd1ab7f719e34de705b23cdf986605ed0ae13ec0ddc35e9fc768d708e"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c",
+      "current_sha256": "e6826b5823f2e02eba05ca4f8da935e66e8b97f23a0e96c5af5678b63e019a1c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b",
+      "current_sha256": "4f71920af803ea079dad678824b33c3de5c1214a82b6fb6be61cb3dd5768eb5b"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c",
+      "current_sha256": "1b639601d714a52ec905395b7b3947d188383210a7e849fb05e57a425150486c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b",
+      "current_sha256": "14b27af3a8439348bedfdfea06ae937a2cb323a1b2b1050317cecae93d93b08b"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175",
+      "current_sha256": "b30d92c360cfaa64859dca450428e78bf27a600dda604dacea7f74e0d2285175"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2023/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c",
+      "current_sha256": "a00ed153b1a8353c59e136626256f76d474d57d79096ab4bd592bdf4a41c2c7c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0",
+      "current_sha256": "a3d8aa357ed00075c48b8fb3080b9d30154c3b50318377a0d417f09b3cb93ea0"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (10).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982",
+      "current_sha256": "4210298b64d7453d5c6e212f1e0fdc281131d061089b3ecb1769a1415b477982"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (11).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16",
+      "current_sha256": "7653c2e7043e5a6faff4f86da14a2ef782d0ee2632eac434ff4b9e00cb075c16"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (12).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d",
+      "current_sha256": "88c36853adafdd2faefd85b6f0ea8810c0371398dc590cbf9c33497a7902922d"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57",
+      "current_sha256": "896f78c04f6f995ba8662d00347aea31585bb1303244bed0072969c69f1b4c57"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7",
+      "current_sha256": "19cc2b28ed7dd39043b49ea896959b51f8963edeb5c2e34600a0a8700fc819e7"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc",
+      "current_sha256": "b267e7f7c8581a1851ba6c43a3575b4419b38c091e10b540a3a650e60d98acdc"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb",
+      "current_sha256": "482e8fffc8d8057dc6bb0b3fbed6f798028a905cc37aba6d8840402418a605eb"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1",
+      "current_sha256": "b41472352e068df83cef5a462ab199833cac6d1ba5b3a65decf43df7437e51c1"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d",
+      "current_sha256": "1ddf774812d42d892d29e4f8b760ebdb781972e741ed506cd9edb6917ce4907d"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66",
+      "current_sha256": "3712e625bb2ce7a64e8b0cb1935d3b2a476a57d7c54e38fb55083ce869950d66"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement (9).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd",
+      "current_sha256": "01d39540ebfe2543e6bd81526f4a078bc79c1c10bb673e15b59cfef1e032f7dd"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2024/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4",
+      "current_sha256": "e8954b96d6dc5257698ec5878d15aeea48d98bdd622abb2c3323d87d303bcdd4"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5",
+      "current_sha256": "2ae9fdc559af6f0442b3c025a73352226e072f7728f8567925265036e4825ee5"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749",
+      "current_sha256": "8791f50d01531325541c99c6045a5b05116d8822f499c6f0fb37b32a0b43e749"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471",
+      "current_sha256": "b528e58cbcd4b71cac166d21497ae0d27090b795d6bc8f2b260cb1f8297cb471"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080",
+      "current_sha256": "84e9dcb1d3b9fbf73d47e4097506721c7269f27374575ca08b3416c244e91080"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69",
+      "current_sha256": "6cb91d2740f38acd4f86eb1030351854a001b7807ce03504c1fe628590651b69"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2025/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7",
+      "current_sha256": "14d80cd44beb05b150565519f8a1f17376877e6feef9090bd020a409ac945cc7"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2026/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "5edf4babb39b787d27cf8b4665d4f0937ca1fb4237fcec41167195459550a1bb",
+      "current_sha256": "5edf4babb39b787d27cf8b4665d4f0937ca1fb4237fcec41167195459550a1bb"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2026/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "515cb75e36cca184fd4fd284799dc6e174437541a56f5fa5055bd60dbb611ca3",
+      "current_sha256": "515cb75e36cca184fd4fd284799dc6e174437541a56f5fa5055bd60dbb611ca3"
+    },
+    {
+      "source": "手動交易2024後策略較固定/2026/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "c0888baf8559c928a0eca852d8775c03ca182db0b7e55518ed67c96196a3a0eb",
+      "current_sha256": "c0888baf8559c928a0eca852d8775c03ca182db0b7e55518ed67c96196a3a0eb"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (1).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "0975c2f6c7dec0c78e1210fed80a487e37ff110b6227469f40dff7629cb90b68",
+      "current_sha256": "0975c2f6c7dec0c78e1210fed80a487e37ff110b6227469f40dff7629cb90b68"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (2).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "0b8a144a480c241cbaa218f48e51a7c520c880378ddad4e1333c758ceac813b2",
+      "current_sha256": "0b8a144a480c241cbaa218f48e51a7c520c880378ddad4e1333c758ceac813b2"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (3).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "c5c33f09bf360c983c3488eb1ccd5f91d5f870a1677fe705320c6732d39f995a",
+      "current_sha256": "c5c33f09bf360c983c3488eb1ccd5f91d5f870a1677fe705320c6732d39f995a"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (4).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "3af44cede4ef8754eee148b7fe0b733b64f16b2472b28565fa6312406ae5fd4d",
+      "current_sha256": "3af44cede4ef8754eee148b7fe0b733b64f16b2472b28565fa6312406ae5fd4d"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (5).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "fb0582ed64dd14546a3e946f8fd1777cc13b47c8c393ff957b63bcf133a2582b",
+      "current_sha256": "fb0582ed64dd14546a3e946f8fd1777cc13b47c8c393ff957b63bcf133a2582b"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal (6).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "539a8c62f35a7bb1739762987d6759c381e913edadb173f0e24d6d4edd435ecc",
+      "current_sha256": "539a8c62f35a7bb1739762987d6759c381e913edadb173f0e24d6d4edd435ecc"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一) -失敗/trading-journal.xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "d943afc73f1a92e5b4d064e9684710398ab9179949c43a2c44efc990c166167b",
+      "current_sha256": "d943afc73f1a92e5b4d064e9684710398ab9179949c43a2c44efc990c166167b"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf",
+      "change": "UNCHANGED",
+      "previous_sha256": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+      "current_sha256": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (1).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "ebb28a7cd056a540d428c2c99d391c4f7899d74a24ee553a1118b8ce5ef04f7f",
+      "current_sha256": "ebb28a7cd056a540d428c2c99d391c4f7899d74a24ee553a1118b8ce5ef04f7f"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (2).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "cafdab7036d4dd6518181c2aba6ca04c45e682b9c622b117402e9b47fabb311d",
+      "current_sha256": "cafdab7036d4dd6518181c2aba6ca04c45e682b9c622b117402e9b47fabb311d"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (3).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "77d3e1c02f6ba16f912871a64b6d0d36a8fa8aadd31a96ae75840839278098d6",
+      "current_sha256": "77d3e1c02f6ba16f912871a64b6d0d36a8fa8aadd31a96ae75840839278098d6"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (4).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "fe31d141ee36d9021b3f3d8f72dd5f5bc88f1e59cf1c0364432aaef793078363",
+      "current_sha256": "fe31d141ee36d9021b3f3d8f72dd5f5bc88f1e59cf1c0364432aaef793078363"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (5).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "8256c3ecbcf7ce807ce469f2cd5e62a1b998ec92607906e903e131b155dc4fcd",
+      "current_sha256": "8256c3ecbcf7ce807ce469f2cd5e62a1b998ec92607906e903e131b155dc4fcd"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (6).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "062175e23a63e78973bf9fc69a529eb99c93280134abdb33982507024e27a557",
+      "current_sha256": "062175e23a63e78973bf9fc69a529eb99c93280134abdb33982507024e27a557"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal (7).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "64674f5347c5b73481481736dcf15942121c14b881e4b75276cf3487016864f8",
+      "current_sha256": "64674f5347c5b73481481736dcf15942121c14b881e4b75276cf3487016864f8"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/trading-journal.xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "42610ce8528d5c95d53a60395e0c3fe8a6834eae8e308b00de4bdf7ecc8a156c",
+      "current_sha256": "42610ce8528d5c95d53a60395e0c3fe8a6834eae8e308b00de4bdf7ecc8a156c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (1).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "e6cc621d97600f661e435ea1322217e1453c92ba344fc0467a21ae7e26d4799c",
+      "current_sha256": "e6cc621d97600f661e435ea1322217e1453c92ba344fc0467a21ae7e26d4799c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (10).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "802a65ce836ef2a987ade0ea8ad27da36a2d8e92443bf1559465478509fabd06",
+      "current_sha256": "802a65ce836ef2a987ade0ea8ad27da36a2d8e92443bf1559465478509fabd06"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (11).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "99197a68b6abd5ee14133e0ce1f62aa5a8af4bdfd4aa7eeab354b72639b2dc55",
+      "current_sha256": "99197a68b6abd5ee14133e0ce1f62aa5a8af4bdfd4aa7eeab354b72639b2dc55"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (12).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "a222540b527fe7b4de1746bc1f019b08892485663b271b844cfe207a4273c2a0",
+      "current_sha256": "a222540b527fe7b4de1746bc1f019b08892485663b271b844cfe207a4273c2a0"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (13).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "ced8d56d15e79629ea5d650311644367ba752f38c60ed497a502a6ee636fc046",
+      "current_sha256": "ced8d56d15e79629ea5d650311644367ba752f38c60ed497a502a6ee636fc046"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (14).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "8c42103eb013db9a8c4e79d708fc5ccf05a926a55fc147b42ca6afdf2eeb9bf9",
+      "current_sha256": "8c42103eb013db9a8c4e79d708fc5ccf05a926a55fc147b42ca6afdf2eeb9bf9"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (2).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "e17528255cc8b2437efbdb6b5e60df8029cfaa53f0c95bda11655147cef1ebcd",
+      "current_sha256": "e17528255cc8b2437efbdb6b5e60df8029cfaa53f0c95bda11655147cef1ebcd"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (3).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "3cd2c30846d39859c9b3646a4e515bde1b023196675de8fd1e693bfe45d73838",
+      "current_sha256": "3cd2c30846d39859c9b3646a4e515bde1b023196675de8fd1e693bfe45d73838"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (4).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "a1b1e7753309a44e26df5f29f78a37f93966d7e210cc26410c01e18992827c3a",
+      "current_sha256": "a1b1e7753309a44e26df5f29f78a37f93966d7e210cc26410c01e18992827c3a"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (5).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "59cda3f6825f2cc21db9c81bc313e1a31bc6cf325f99564e78929b8865292819",
+      "current_sha256": "59cda3f6825f2cc21db9c81bc313e1a31bc6cf325f99564e78929b8865292819"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (6).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "083e344728e6cc8084b82b5aabf054b9cebd3ec657f64fcf1c39609af1df533c",
+      "current_sha256": "083e344728e6cc8084b82b5aabf054b9cebd3ec657f64fcf1c39609af1df533c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (7).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "e6975ad4e4c0131fa8565b7eaf0df37d938d32b8e7527bb884c856dcb4cc4063",
+      "current_sha256": "e6975ad4e4c0131fa8565b7eaf0df37d938d32b8e7527bb884c856dcb4cc4063"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (8).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "9e38b287422f3fbe273d73f4090675d71e576e46353ce2e454330149021d031c",
+      "current_sha256": "9e38b287422f3fbe273d73f4090675d71e576e46353ce2e454330149021d031c"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal (9).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "c91183318fdce165ecde60750dc1d3d2b4f1cf21b5c5f5f7e39a20b7044a5574",
+      "current_sha256": "c91183318fdce165ecde60750dc1d3d2b4f1cf21b5c5f5f7e39a20b7044a5574"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第三階段真倉)/trading-journal.xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "dc601dd4a011df224a618c80370dca83f6734b64afc5a94a8ccb19f6ab38aada",
+      "current_sha256": "dc601dd4a011df224a618c80370dca83f6734b64afc5a94a8ccb19f6ab38aada"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (1).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "ff70abcda07b7ef576c05208564c2ff2848ab2f5d6b674d7f89c685783a1b225",
+      "current_sha256": "ff70abcda07b7ef576c05208564c2ff2848ab2f5d6b674d7f89c685783a1b225"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (2).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "c1218a87de9188f2935ffe62df8d04fbe58a4af5c98332043ffb5f4b96f22fbd",
+      "current_sha256": "c1218a87de9188f2935ffe62df8d04fbe58a4af5c98332043ffb5f4b96f22fbd"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (3).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "6e5aacd1847475067167c3e83c9548199c32350c554f10714af15e9a67ba5146",
+      "current_sha256": "6e5aacd1847475067167c3e83c9548199c32350c554f10714af15e9a67ba5146"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (4).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "8436a99c0691c51738c5a382dd69ec179ce741021cc42acd3d54cabddfabf013",
+      "current_sha256": "8436a99c0691c51738c5a382dd69ec179ce741021cc42acd3d54cabddfabf013"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (5).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "9431fb28739ed7dc60a8f4c0f1928a286f171bacd33f87599a49d00a5b45aa97",
+      "current_sha256": "9431fb28739ed7dc60a8f4c0f1928a286f171bacd33f87599a49d00a5b45aa97"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (6).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "11b6244031c88eebba05f0cc5f643a8f6fa9dc0f784fe6db7f87b13043f90733",
+      "current_sha256": "11b6244031c88eebba05f0cc5f643a8f6fa9dc0f784fe6db7f87b13043f90733"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal (7).xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "e83aef98ebab0eab5e2f11388857f743caa542c29e5234fc0ca08494695a3bde",
+      "current_sha256": "e83aef98ebab0eab5e2f11388857f743caa542c29e5234fc0ca08494695a3bde"
+    },
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第二次確認)/trading-journal.xlsx",
+      "change": "UNCHANGED",
+      "previous_sha256": "c11949c135a2717c04b963dc3b4de29cede533bbde5215f2f3f9a2e505fea031",
+      "current_sha256": "c11949c135a2717c04b963dc3b4de29cede533bbde5215f2f3f9a2e505fea031"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "64f5c51f8d253d762c44e705b750fe3440151f71bb6b5479a01c289b57362203",
+      "current_sha256": "64f5c51f8d253d762c44e705b750fe3440151f71bb6b5479a01c289b57362203"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "dc676e1cb75edc49cebb423205427ac5efbe567207cab40da7a59a6ea8d91e41",
+      "current_sha256": "dc676e1cb75edc49cebb423205427ac5efbe567207cab40da7a59a6ea8d91e41"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "4250bf31b24679af4085e2875e2f89acd8a5ce2f2b0726f4d0e466d9dd729cb5",
+      "current_sha256": "4250bf31b24679af4085e2875e2f89acd8a5ce2f2b0726f4d0e466d9dd729cb5"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "7689d9320fd164a2932783102e8895e9f8a6103d423a504f5e37b0602db4c078",
+      "current_sha256": "7689d9320fd164a2932783102e8895e9f8a6103d423a504f5e37b0602db4c078"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "f5798f1bbe8c00e3494652024588d4b0a89e93cbc06e6a62b4cbe358110a3eb7",
+      "current_sha256": "f5798f1bbe8c00e3494652024588d4b0a89e93cbc06e6a62b4cbe358110a3eb7"
+    },
+    {
+      "source": "手動交易2024後策略較固定/其他/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b840d14af9d8eb75d4c7e6224d2aaa2f0e4cbad6f9ce0d727e2c494d916a3eaa",
+      "current_sha256": "b840d14af9d8eb75d4c7e6224d2aaa2f0e4cbad6f9ce0d727e2c494d916a3eaa"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (1).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "5c8e66d827d4b35350161e1d6b9501cb473c05254d125041f12b1f46e1fcf3e1",
+      "current_sha256": "5c8e66d827d4b35350161e1d6b9501cb473c05254d125041f12b1f46e1fcf3e1"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (2).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "b11157907efa6dd405fea0f83dc6a6bd68af8d66b4520e47da56da275648c07a",
+      "current_sha256": "b11157907efa6dd405fea0f83dc6a6bd68af8d66b4520e47da56da275648c07a"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (3).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "688fa2897373826d2dd676ed0fd25025b95c45e114ad5008a059713fe438c8ef",
+      "current_sha256": "688fa2897373826d2dd676ed0fd25025b95c45e114ad5008a059713fe438c8ef"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (4).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "bc6f8668242f91fcb1fcc2ff07d7b2226c7ba41d485640f2fdfa86fc3723343a",
+      "current_sha256": "bc6f8668242f91fcb1fcc2ff07d7b2226c7ba41d485640f2fdfa86fc3723343a"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (5).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "16715c4f6a958a2411e5c63a4d36176674f01424a6d492560f97a77808baa615",
+      "current_sha256": "16715c4f6a958a2411e5c63a4d36176674f01424a6d492560f97a77808baa615"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (6).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "c4a9740b0e26c6f6859bd711cc7baaa65e08cc0b567b45d0993f95552df6e834",
+      "current_sha256": "c4a9740b0e26c6f6859bd711cc7baaa65e08cc0b567b45d0993f95552df6e834"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (7).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "08f475ca074fdd852b134b3e96f47e7f8ad6604cb23a94803cc9e02af44b92c6",
+      "current_sha256": "08f475ca074fdd852b134b3e96f47e7f8ad6604cb23a94803cc9e02af44b92c6"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement (8).html",
+      "change": "UNCHANGED",
+      "previous_sha256": "0df4c5f570b1ded723aae10d0d928ed65baeaa9e34369e4be01473d435e83436",
+      "current_sha256": "0df4c5f570b1ded723aae10d0d928ed65baeaa9e34369e4be01473d435e83436"
+    },
+    {
+      "source": "手動交易2024後策略較固定/模擬倉/statement.html",
+      "change": "UNCHANGED",
+      "previous_sha256": "5aab3a9d9e550753e7e794297a1aede33d7a5c05604121e20b9c513755cc64ee",
+      "current_sha256": "5aab3a9d9e550753e7e794297a1aede33d7a5c05604121e20b9c513755cc64ee"
+    }
+  ],
+  "pdf_reviews": [
+    {
+      "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf",
+      "sha256": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+      "pages": 2,
+      "legible_trade_evidence_rows": 30,
+      "classification": "MYFXBOOK_TRADE_DETAIL_WITH_UNREADABLE_DIRECTION",
+      "trade_statistics_included": false,
+      "direction_not_inferred_from_pips_or_profit": true,
+      "source_currency_label": "USD",
+      "review_status": "TEXT_EXTRACTED_DIRECTION_UNREADABLE",
+      "render_review": "See tmp/pdfs/refresh_pdf/page-1.png; direction appears ??"
+    }
+  ]
+}

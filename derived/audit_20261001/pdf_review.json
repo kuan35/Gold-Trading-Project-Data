@@ -1,0 +1,14 @@
+[
+  {
+    "source": "手動交易2024後策略較固定/交易員機構交易紀錄/ftmo(第一)/5%第一.pdf",
+    "sha256": "62554f02b4e781ce1d799f0909cc2cbae18c42b28036f89b242c1cd7ca054c33",
+    "pages": 2,
+    "legible_trade_evidence_rows": 30,
+    "classification": "MYFXBOOK_TRADE_DETAIL_WITH_UNREADABLE_DIRECTION",
+    "trade_statistics_included": false,
+    "direction_not_inferred_from_pips_or_profit": true,
+    "source_currency_label": "USD",
+    "review_status": "TEXT_EXTRACTED_DIRECTION_UNREADABLE",
+    "render_review": "See tmp/pdfs/refresh_pdf/page-1.png; direction appears ??"
+  }
+]
