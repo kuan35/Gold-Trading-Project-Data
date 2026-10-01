@@ -46,6 +46,8 @@ Copy-Item -LiteralPath ../Gold-Trading-Project-Data/runtime/private/audit.json -
 
 前端展示的歷史獲利比例只描述匹配案例池，不是新訂單預測勝率。可見首筆不代表帳戶確定空手，同分鐘順序不明與跨來源重複仍保留限制。案例時區尚未核對，不能直接聲稱 K 線形狀相似。
 
+交接前已重新分群，9 項主要計數／來源檢查與既有稽核一致。PDF 文字抽取本次未重現既有 30 筆數值列，交接仍保留既有 PDF 原件及稽核結果供人工查看；買賣方向未知，兩次都未把 PDF 納入交易分群。此差異不影響 HTML／Excel／CSV 的分類總數。重跑結果可能因文字抽取環境不同而有差異，請不要覆寫交付的稽核快照。
+
 ## Word 與進度
 
 `reference/黃金交易輔助平台專題報告_v1.docx` 是產品型專題報告（標楷體、至少 12pt）。較晚新增的免費 TradingView 看盤與 LLM 訂閱路線，請另讀公開程式 `docs/live-chart-and-llm.md`；未把上述功能說成已完成券商／LLM 串接。
